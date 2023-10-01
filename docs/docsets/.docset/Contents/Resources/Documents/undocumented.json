@@ -1,0 +1,250 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/Extension/RepositoriesAndUserRepositories+RepositoriesProtocol.swift",
+      "line": 27,
+      "symbol": "UserRepositories.sortingKeys",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/Extension/RepositoriesAndUserRepositories+RepositoriesProtocol.swift",
+      "line": 31,
+      "symbol": "UserRepositories.cacheName",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/Support Files/AppDelegate.swift",
+      "line": 14,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/Support Files/AppDelegate.swift",
+      "line": 16,
+      "symbol": "AppDelegate.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/Support Files/AppDelegate.swift",
+      "line": 25,
+      "symbol": "AppDelegate.application(_:configurationForConnecting:options:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/Support Files/AppDelegate.swift",
+      "line": 33,
+      "symbol": "AppDelegate.application(_:didDiscardSceneSessions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/Support Files/SceneDelegate.swift",
+      "line": 12,
+      "symbol": "SceneDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/Support Files/SceneDelegate.swift",
+      "line": 14,
+      "symbol": "SceneDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/Support Files/SceneDelegate.swift",
+      "line": 16,
+      "symbol": "SceneDelegate.scene(_:willConnectTo:options:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/Support Files/SceneDelegate.swift",
+      "line": 31,
+      "symbol": "SceneDelegate.sceneDidDisconnect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/Support Files/SceneDelegate.swift",
+      "line": 38,
+      "symbol": "SceneDelegate.sceneDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/Support Files/SceneDelegate.swift",
+      "line": 43,
+      "symbol": "SceneDelegate.sceneWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/Support Files/SceneDelegate.swift",
+      "line": 48,
+      "symbol": "SceneDelegate.sceneWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/Support Files/SceneDelegate.swift",
+      "line": 53,
+      "symbol": "SceneDelegate.sceneDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/Support Files/SegueIdentifiers.swift",
+      "line": 14,
+      "symbol": "SegueIdentifiers.SearchViewController.userRepositories",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/View/Abstract View/BaseViewController.swift",
+      "line": 16,
+      "symbol": "BaseViewController.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/View/Abstract View/BaseViewController.swift",
+      "line": 20,
+      "symbol": "BaseViewController.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/View/Abstract View/BaseViewController.swift",
+      "line": 27,
+      "symbol": "BaseViewController.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/View/Abstract View/BaseViewController.swift",
+      "line": 32,
+      "symbol": "BaseViewController.tableView(_:willDisplay:forRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/View/SearchViewController.swift",
+      "line": 16,
+      "symbol": "SearchViewController.tableView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/View/SearchViewController.swift",
+      "line": 25,
+      "symbol": "SearchViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/View/SearchViewController.swift",
+      "line": 47,
+      "symbol": "SearchViewController.refreshControllAction()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/View/SearchViewController.swift",
+      "line": 51,
+      "symbol": "SearchViewController.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/View/SearchViewController.swift",
+      "line": 57,
+      "symbol": "SearchViewController.prepare(for:sender:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/View/UserRepositoriesViewController.swift",
+      "line": 16,
+      "symbol": "UserRepositoriesViewController.tableView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/View/UserRepositoriesViewController.swift",
+      "line": 23,
+      "symbol": "UserRepositoriesViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/ViewModel/Abstract View Models/RepositoriesViewModel.swift",
+      "line": 24,
+      "symbol": "RepositoriesViewModel.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/ViewModel/Abstract View Models/RepositoriesViewModel.swift",
+      "line": 63,
+      "symbol": "RepositoriesViewModel.controllerWillChangeContent(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/ViewModel/Abstract View Models/RepositoriesViewModel.swift",
+      "line": 67,
+      "symbol": "RepositoriesViewModel.controller(_:didChange:at:for:newIndexPath:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/ViewModel/Abstract View Models/RepositoriesViewModel.swift",
+      "line": 77,
+      "symbol": "RepositoriesViewModel.controllerDidChangeContent(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/ViewModel/SearchViewModel.swift",
+      "line": 45,
+      "symbol": "SearchViewModel.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/ViewModel/SearchViewModel.swift",
+      "line": 127,
+      "symbol": "SearchViewModel.updateSearchResults(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/ViewModel/SearchViewModel.swift",
+      "line": 132,
+      "symbol": "SearchViewModel.searchBarSearchButtonClicked(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/ViewModel/UserRepositoriesViewModel.swift",
+      "line": 17,
+      "symbol": "UserRepositoriesViewModel.init(repository:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yevhenmekhedov/Documents/GitHubSearch/GitHubSearch/ViewModel/UserRepositoriesViewModel.swift",
+      "line": 29,
+      "symbol": "UserRepositoriesViewModel.search(isNewRequest:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/yevhenmekhedov/Documents/GitHubSearch"
+}

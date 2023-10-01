@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>FetchedResultsViewModelDelegate Protocol Reference</title>
+    <link rel="stylesheet" type="text/css" href="../css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="../css/highlight.css" />
+    <meta charset='utf-8'>
+    <script src="../js/jquery.min.js" defer></script>
+    <script src="../js/jazzy.js" defer></script>
+    
+  </head>
+  <body>
+    <a name="//apple_ref/swift/Protocol/FetchedResultsViewModelDelegate" class="dashAnchor"></a>
+    <a title="FetchedResultsViewModelDelegate Protocol Reference"></a>
+    <header>
+      <div class="content-wrapper">
+        <p><a href="../index.html"> Docs</a></p>
+      </div>
+    </header>
+    <div class="content-wrapper">
+      <p id="breadcrumbs">
+        <a href="../index.html"> Reference</a>
+        <img id="carat" src="../img/carat.png" />
+        FetchedResultsViewModelDelegate Protocol Reference
+      </p>
+    </div>
+    <div class="content-wrapper">
+      <nav class="sidebar">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a href="../Classes.html">Classes</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Classes/AppDelegate.html">AppDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/BaseViewController.html">BaseViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/BaseViewModel.html">BaseViewModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/Repositories.html">Repositories</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/RepositoriesViewModel.html">RepositoriesViewModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SceneDelegate.html">SceneDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SearchViewController.html">SearchViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SearchViewModel.html">SearchViewModel</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/UserRepositories.html">UserRepositories</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/UserRepositoriesViewController.html">UserRepositoriesViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/UserRepositoriesViewModel.html">UserRepositoriesViewModel</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Enums.html">Enumerations</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Enums/SegueIdentifiers.html">SegueIdentifiers</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/SegueIdentifiers/SearchViewController.html">– SearchViewController</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Extensions.html">Extensions</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Extensions/UIViewController.html">UIViewController</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Protocols.html">Protocols</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Protocols/BaseEntityProtocol.html">BaseEntityProtocol</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/BaseViewModelProtocol.html">BaseViewModelProtocol</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/FetchedResultsViewModelDelegate.html">FetchedResultsViewModelDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/RepositoriesProtocol.html">RepositoriesProtocol</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/ViewModelDelegate.html">ViewModelDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/ViewModelProtocol.html">ViewModelProtocol</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+        <section>
+          <section class="section">
+            <h1>FetchedResultsViewModelDelegate</h1>
+              <div class="declaration">
+                <div class="language">
+                  <pre class="highlight swift"><code><span class="kd">protocol</span> <span class="kt">FetchedResultsViewModelDelegate</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
+
+                </div>
+              </div>
+            <p>This is a protocol which gives ability to your view to know when the tableView should be updated</p>
+
+          </section>
+          <section class="section task-group-section">
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:12GitHubSearch31FetchedResultsViewModelDelegateP27controllerWillChangeContentyyF"></a>
+                    <a name="//apple_ref/swift/Method/controllerWillChangeContent()" class="dashAnchor"></a>
+                    <a class="token" href="#/s:12GitHubSearch31FetchedResultsViewModelDelegateP27controllerWillChangeContentyyF">controllerWillChangeContent()</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Notifies the delegate that section and object changes are about to be processed and notifications will be sent</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">controllerWillChangeContent</span><span class="p">()</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:12GitHubSearch31FetchedResultsViewModelDelegateP25controllerDidChangeObject2at3for12newIndexPathy10Foundation0pQ0VSg_So09NSFetchedeK4TypeVAKtF"></a>
+                    <a name="//apple_ref/swift/Method/controllerDidChangeObject(at:for:newIndexPath:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:12GitHubSearch31FetchedResultsViewModelDelegateP25controllerDidChangeObject2at3for12newIndexPathy10Foundation0pQ0VSg_So09NSFetchedeK4TypeVAKtF">controllerDidChangeObject(at:for:newIndexPath:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Notifies the delegate that a fetched object has been changed due to an add, remove, move, or update</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">controllerDidChangeObject</span><span class="p">(</span><span class="n">at</span> <span class="nv">indexPath</span><span class="p">:</span> <span class="kt">IndexPath</span><span class="p">?,</span> <span class="k">for</span> <span class="nv">type</span><span class="p">:</span> <span class="kt">NSFetchedResultsChangeType</span><span class="p">,</span> <span class="nv">newIndexPath</span><span class="p">:</span> <span class="kt">IndexPath</span><span class="p">?)</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div>
+                        <h4>Parameters</h4>
+                        <table class="graybox">
+                          <tbody>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>indexPath</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>The index path of the changed object (this value is nil for insertions).</p>
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>type</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>The type of change. For valid values see <a href="https://developer.apple.com/documentation/coredata/nsfetchedresultschangetype">NSFetchedResultsChangeType</a>.</p>
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>newIndexPath</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>The destination path for the object for insertions or moves (this value is nil for a deletion).</p>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:12GitHubSearch31FetchedResultsViewModelDelegateP26controllerDidChangeContentyyF"></a>
+                    <a name="//apple_ref/swift/Method/controllerDidChangeContent()" class="dashAnchor"></a>
+                    <a class="token" href="#/s:12GitHubSearch31FetchedResultsViewModelDelegateP26controllerDidChangeContentyyF">controllerDidChangeContent()</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Notifies the delegate that all section and object changes have been sent</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">controllerDidChangeContent</span><span class="p">()</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </section>
+        </section>
+        <section id="footer">
+          <p>&copy; 2020 <a class="link" href="" target="_blank" rel="external"></a>. All rights reserved. (Last updated: 2020-02-17)</p>
+          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.13.1</a>, a <a class="link" href="https://realm.io" target="_blank" rel="external">Realm</a> project.</p>
+        </section>
+      </article>
+    </div>
+  </body>
+</div>
+</html>
